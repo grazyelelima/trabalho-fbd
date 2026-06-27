@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+psycopg2-binary
+panel
+python-dotenv
+jupyter_bokeh
+matplotlib
